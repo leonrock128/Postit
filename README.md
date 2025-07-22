@@ -29,8 +29,6 @@ git clone https://github.com/Ajay080205/Postit.git
 ```
 cd social-media-app  
 npm install
-cd client
-npm install
 ```
 3) Create .env in root directory
 ```
